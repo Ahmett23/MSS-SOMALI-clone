@@ -9,7 +9,8 @@ import Competitors from './components/competitors/Competitors'
 import Header from './components/header/Header'
 // import Time from './components/timer/Time'
 import VoteModal from './components/modal/VoteModal'
-import Timer from './Components/timer/timer'
+import Timer from './components/timer/timer'
+
 
 
 
