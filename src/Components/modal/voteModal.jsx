@@ -5,7 +5,7 @@ import { AiOutlinePlus, AiOutlineMinus } from "react-icons/ai";
 import { useSelector, useDispatch } from 'react-redux';
 import { handleModal } from "../../features/modal/modalSlice";
 import { store } from '../../store';
-import { addVoteToCompetitor, decreaseVote, inCreaseVote, resetState } from '../../features/competitors/competitorsSlice';
+import { addVoteToCompetitor, decreaseVote, inCreaseVote, resetState } from '../../features/competitor/competitorsSlice';
 
 const customStyles = {
   content: {

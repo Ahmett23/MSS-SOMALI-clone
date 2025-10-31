@@ -3,7 +3,7 @@ import { MdOutlineHowToVote } from "react-icons/md";
 import { useDispatch } from "react-redux";
 import { handleModal } from "../../features/modal/modalSlice";
 // import {setCurrentCompetitor} from "./"
-import { setCurrentCompetitor } from "../../features/competitors/competitorsSlice";
+import { setCurrentCompetitor } from "../../features/competitor/competitorsSlice";
  
 const Competitor = ({ competitor }) => {
 

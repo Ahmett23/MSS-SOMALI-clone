@@ -1,9 +1,10 @@
 
 
 import Competitors from './Components/Competitors/Competitors'
-import Header from './components/header/Header'
-import VoteModal from './components/modal/VoteModal'
-import Timer from './components/timer/timer'
+import Header from './Components/header/Header'
+import VoteModal from './Components/modal/VoteModal'
+import Timer from './Components/Timer/Timer'
+
 
 
 
